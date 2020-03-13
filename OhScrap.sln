@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhScrap", "OhScrap\OhScrap.csproj", "{91503855-3C04-4DB5-8878-4454D9F5877A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhScrap", "Source\OhScrap.csproj", "{91503855-3C04-4DB5-8878-4454D9F5877A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,5 +21,15 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {38C61B62-D82F-4056-A9B3-7EDAC1F2D45B}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 132
+		$1.TabsToSpaces = True
+		$1.scope = text/plain
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = application/t4-template
 	EndGlobalSection
 EndGlobal
