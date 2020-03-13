@@ -118,6 +118,7 @@
     <Compile Include="UPFMUtils.cs" />
     <Compile Include="StageRecoveryWrapper.cs" />
     <Compile Include="StageRecoveryHandler.cs" />
+    <Compile Include="Dependencies\EngineModuleWrapper.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\AssemblyVersion.tt">
